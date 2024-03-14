@@ -1,7 +1,8 @@
-package com.rygk.gm.base.nav
+package ml.youmu.helper.base.nav
 
 import androidx.navigation.NavController
-import com.rygk.gm.base.ext.logD
+import com.rygk.gm.base.nav.NavIntent
+import ml.youmu.helper.ext.logD
 
 /**
  * @ClassName NavController.java
