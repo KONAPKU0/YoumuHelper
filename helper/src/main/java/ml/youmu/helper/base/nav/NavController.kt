@@ -1,7 +1,7 @@
 package ml.youmu.helper.base.nav
 
 import androidx.navigation.NavController
-import com.rygk.gm.base.nav.NavIntent
+import ml.youmu.helper.base.nav.NavIntent
 import ml.youmu.helper.ext.logD
 
 /**

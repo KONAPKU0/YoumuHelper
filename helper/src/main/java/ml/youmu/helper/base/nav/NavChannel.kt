@@ -1,4 +1,4 @@
-package com.rygk.gm.base.nav
+package ml.youmu.helper.base.nav
 
 import kotlinx.coroutines.channels.BufferOverflow
 import kotlinx.coroutines.channels.Channel

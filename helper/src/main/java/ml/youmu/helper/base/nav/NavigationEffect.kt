@@ -1,4 +1,4 @@
-package com.rygk.gm.base.nav
+package ml.youmu.helper.base.nav
 
 import android.app.Activity
 import androidx.compose.runtime.Composable
